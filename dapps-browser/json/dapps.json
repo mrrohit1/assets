@@ -1,0 +1,112 @@
+[
+  {
+    "Exchange": [
+      {
+        "name": "PancakeSwap",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "UniSwap",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "BakerySwap",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "ApeSwap",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "1InchExchange",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Aave",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  },
+  {
+    "Finance": [
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  },
+  {
+    "Games": [
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  }
+]
