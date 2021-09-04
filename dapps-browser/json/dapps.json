@@ -4,42 +4,42 @@
       {
         "name": "PancakeSwap",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/exchange.pancakeswap.finance.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       },
       {
         "name": "UniSwap",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/app.uniswap.org.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       },
       {
         "name": "BakerySwap",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/bakeryswap.org.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       },
       {
         "name": "ApeSwap",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/apeswap.finance.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       },
       {
         "name": "1InchExchange",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/1inch.exchange.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       },
       {
         "name": "Aave",
         "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/aave.com.png",
         "gradientColor1": "#xchchc",
         "gradientColor2": "#ionovf"
       }
