@@ -3,37 +3,37 @@
     "Exchange": [
       {
         "name": "PancakeSwap",
-        "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/exchange.pancakeswap.finance.png"
       },
       {
         "name": "UniSwap",
-         "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/app.uniswap.org.png"
       },
       {
         "name": "BakerySwap",
-         "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/bakeryswap.org.png"
       },
       {
         "name": "ApeSwap",
-         "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/apeswap.finance.png"
       },
       {
         "name": "1InchExchange",
-         "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/1inch.exchange.png"
       },
       {
         "name": "Aave",
-         "description":"",
+        "description": "description",
         "url": "www.wesite.com",
         "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/aave.com.png"
       }
@@ -42,196 +42,196 @@
   {
     "NFTs": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "description",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Games": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Finance": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Farming": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Staking": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Marketplace": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   },
   {
     "Utility": [
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       },
       {
-        "name": "",
-        "description":"",
-        "url": "",
-        "icon": ""
+        "name": "description",
+        "description": "descriptiondescription",
+        "url": "description",
+        "icon": "description"
       }
     ]
   }
