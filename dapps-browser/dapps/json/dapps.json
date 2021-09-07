@@ -5,37 +5,37 @@
         "name": "PancakeSwap",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/exchange.pancakeswap.finance.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/exchange.pancakeswap.finance.png"
       },
       {
         "name": "UniSwap",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/app.uniswap.org.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/app.uniswap.org.png"
       },
       {
         "name": "BakerySwap",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/bakeryswap.org.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/bakeryswap.org.png"
       },
       {
         "name": "ApeSwap",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/apeswap.finance.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/apeswap.finance.png"
       },
       {
         "name": "1InchExchange",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/1inch.exchange.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/1inch.exchange.png"
       },
       {
         "name": "Aave",
         "description": "description",
         "url": "www.wesite.com",
-        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/aave.com.png"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/dapps/images/aave.com.png"
       }
     ]
   },
