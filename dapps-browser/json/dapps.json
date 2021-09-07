@@ -3,109 +3,235 @@
     "Exchange": [
       {
         "name": "PancakeSwap",
+        "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/exchange.pancakeswap.finance.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/exchange.pancakeswap.finance.png"
       },
       {
         "name": "UniSwap",
+         "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/app.uniswap.org.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/app.uniswap.org.png"
       },
       {
         "name": "BakerySwap",
+         "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/bakeryswap.org.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/bakeryswap.org.png"
       },
       {
         "name": "ApeSwap",
+         "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/apeswap.finance.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/apeswap.finance.png"
       },
       {
         "name": "1InchExchange",
+         "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/1inch.exchange.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/1inch.exchange.png"
       },
       {
         "name": "Aave",
+         "description":"",
         "url": "www.wesite.com",
-        "iconUrl": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/aave.com.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "icon": "https://raw.githubusercontent.com/mrrohit1/assets/main/dapps-browser/images/aave.com.png"
       }
     ]
   },
   {
-    "Finance": [
+    "NFTs": [
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       }
     ]
   },
   {
     "Games": [
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       },
       {
-        "name": "Dapps 1",
-        "url": "www.wesite.com",
-        "iconUrl": "www.website.com/icon.png",
-        "gradientColor1": "#xchchc",
-        "gradientColor2": "#ionovf"
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "Finance": [
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "Farming": [
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "Staking": [
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "Marketplace": [
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "Utility": [
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "",
+        "description":"",
+        "url": "",
+        "icon": ""
       }
     ]
   }
